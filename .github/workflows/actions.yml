@@ -2,7 +2,7 @@ name: Run Page Checker
 
 on:
   schedule:
-    # Runs every day at 10:00
+    # Runs every hour
     - cron: '0 * * * *'
 
 jobs:
