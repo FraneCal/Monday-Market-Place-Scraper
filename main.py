@@ -34,7 +34,7 @@ class MondayMarketPlaceScraper():
 
     def check_ip(self, proxy):
         """
-        Prints and returns the current external IP using the configured proxy.
+        Returns the current external IP and country using the configured proxy.
         """
         print("[INFO] Checking proxy IP address...")
         try:
@@ -43,10 +43,10 @@ class MondayMarketPlaceScraper():
             ip_address = ip_data.get('query', 'Unknown')
             country = ip_data.get('country', 'Unknown')
             print(f"[INFO] Current Proxy IP: {ip_address} ({country})")
-            return ip_address
+            return ip_address, country
         except requests.exceptions.RequestException:
             print("[WARNING] Failed to fetch IP address. Proxy might be blocked!")
-            return "Failed"
+            return "Failed", "Unknown"
 
     def setup_driver(self):
         '''Configures the Selenium WebDriver (Chrome) with proxy'''
@@ -81,12 +81,12 @@ class MondayMarketPlaceScraper():
         except Exception as e:
             print(f"[ERROR] Unexpected error during scrolling: {e}")
 
-    def log_visit(self, url, proxy_ip):
-        '''Logs the visit to a text file with date, time, URL, and IP address'''
+    def log_visit(self, url, proxy_ip, country):
+        '''Logs the visit to a text file with date, time, URL, IP address, and country'''
         print("[INFO] Logging visit to text file...")
         log_file = "visit_log.txt"
         now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        log_line = f"{now} | {url} | {proxy_ip}\n"
+        log_line = f"{now} | {url} | {proxy_ip} | {country}\n"
     
         try:
             with open(log_file, "a", encoding="utf-8") as f:
@@ -100,11 +100,11 @@ if __name__ == "__main__":
     print("[INFO] Script started.")
 
     scraper = MondayMarketPlaceScraper()
-    proxy_ip = scraper.check_ip({"http": scraper.proxy_url, "https": scraper.proxy_url})
+    proxy_ip, country = scraper.check_ip({"http": scraper.proxy_url, "https": scraper.proxy_url})
 
     try:
         scraper.scrolling_and_pagination(URL)
-        scraper.log_visit(URL, proxy_ip)
+        scraper.log_visit(URL, proxy_ip, country)
     finally:
         scraper.driver.quit()
         print("[INFO] WebDriver closed. Script finished.")
