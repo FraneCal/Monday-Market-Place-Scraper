@@ -29,8 +29,8 @@ jobs:
     # Step 4: Run the Python scraper script
     - name: Run scraper
       env:
-        USERNAME: ${{ secrets.TWOCAPTCHA_USERNAME }}
-        PASSWORD: ${{ secrets.TWOCAPTCHA_PASSWORD }}
+        TWOCAPTCHA_USERNAME: ${{ secrets.TWOCAPTCHA_USERNAME }}
+        TWOCAPTCHA_PASSWORD: ${{ secrets.TWOCAPTCHA_PASSWORD }}
         PROXY_DNS: ${{ secrets.PROXY_DNS }}
       run: |
         python main.py
