@@ -42,6 +42,6 @@ jobs:
         author_name: 'github-actions'
         author_email: 'github-actions@github.com'
         message: 'Update visit log'
-        add: 'visit_log.xlsx'
+        add: 'visit_log.txt'
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
