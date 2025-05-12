@@ -3,7 +3,7 @@ name: Run Page Checker
 on:
   schedule:
     # Runs every hour
-    - cron: '*/5 * * * *'
+    # - cron: '*/5 * * * *'
 
 jobs:
   run-scraper:
