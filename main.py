@@ -18,10 +18,6 @@ TWOCAPTCHA_USERNAME = os.getenv('TWOCAPTCHA_USERNAME')
 TWOCAPTCHA_PASSWORD = os.getenv('TWOCAPTCHA_PASSWORD')
 PROXY_DNS = os.getenv('PROXY_DNS')
 
-print(TWOCAPTCHA_USERNAME)
-print(TWOCAPTCHA_PASSWORD)
-print(PROXY_DNS)
-
 class MondayMarketPlaceScraper():
     def __init__(self) -> None:
         '''Initializes Selenium WebDriver and sets up proxy'''
