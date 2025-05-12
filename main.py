@@ -82,22 +82,16 @@ class MondayMarketPlaceScraper():
             print(f"[ERROR] Unexpected error during scrolling: {e}")
 
     def log_visit(self, url, proxy_ip):
-        '''Logs the visit to an Excel file with date, time, and IP address only'''
-        print("[INFO] Logging visit to Excel file...")
-        log_file = "visit_log.xlsx"
+        '''Logs the visit to a text file with date, time, URL, and IP address'''
+        print("[INFO] Logging visit to text file...")
+        log_file = "visit_log.txt"
         now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        new_entry = pd.DataFrame([[now, url, proxy_ip]],
-                                 columns=["Timestamp", "URL", "IP"])
-
+        log_line = f"{now} | {url} | {proxy_ip}\n"
+    
         try:
-            if os.path.exists(log_file):
-                old_df = pd.read_excel(log_file)
-                updated_df = pd.concat([old_df, new_entry], ignore_index=True)
-            else:
-                updated_df = new_entry
-
-            updated_df.to_excel(log_file, index=False)
-            print("[INFO] Visit logged successfully.")
+            with open(log_file, "a", encoding="utf-8") as f:
+                f.write(log_line)
+            print("[INFO] Visit logged successfully to text file.")
         except Exception as e:
             print(f"[ERROR] Failed to write to log file: {e}")
 
