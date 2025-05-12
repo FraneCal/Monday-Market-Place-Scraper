@@ -10,3 +10,4 @@ Timestamp           | Site URL                                               | I
 2025-05-12 16:14:37 | https://auth.monday.com/marketplace/listing/12/docugen | Failed | Unknown
 2025-05-12 17:10:20 | https://auth.monday.com/marketplace/listing/12/docugen | 178.176.138.50 | Russia
 2025-05-12 18:15:50 | https://auth.monday.com/marketplace/listing/12/docugen | 159.89.201.46 | Singapore
+2025-05-12 19:09:41 | https://auth.monday.com/marketplace/listing/12/docugen | 5.58.188.198 | Ukraine
