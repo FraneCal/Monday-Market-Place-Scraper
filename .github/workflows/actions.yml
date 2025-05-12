@@ -3,7 +3,7 @@ name: Run Page Checker
 on:
   schedule:
     # Runs every hour
-    - cron: '0 * * * *'
+    - cron: '*/5 * * * *'
 
 jobs:
   run-scraper:
@@ -41,7 +41,7 @@ jobs:
       with:
         author_name: 'github-actions'
         author_email: 'github-actions@github.com'
-        message: 'Updated new jobs'
-        add: 'jobs.xlsx'
+        message: 'Update visit log'
+        add: 'visit_log.xlsx'
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
