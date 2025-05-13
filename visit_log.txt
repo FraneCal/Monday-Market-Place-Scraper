@@ -24,3 +24,4 @@ Timestamp           | Site URL                                               | I
 2025-05-13 07:12:28 | https://auth.monday.com/marketplace/listing/12/docugen | 31.128.190.101 | Ukraine
 2025-05-13 08:16:09 | https://auth.monday.com/marketplace/listing/12/docugen | 78.92.176.243 | Hungary
 2025-05-13 09:12:57 | https://auth.monday.com/marketplace/listing/12/docugen | 90.14.2.250 | France
+2025-05-13 10:13:07 | https://auth.monday.com/marketplace/listing/12/docugen | Failed | Unknown
