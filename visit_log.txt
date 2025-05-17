@@ -183,3 +183,4 @@ Timestamp           | Site URL                                               | I
 2025-05-17 12:58:41 | https://auth.monday.com/marketplace/listing/12/docugen | 217.65.123.76 | Hungary
 2025-05-17 13:24:57 | https://auth.monday.com/marketplace/listing/12/docugen | 162.213.64.171 | Spain
 2025-05-17 13:39:42 | https://auth.monday.com/marketplace/listing/12/docugen | Failed | Unknown
+2025-05-17 14:10:55 | https://auth.monday.com/marketplace/listing/12/docugen | 91.243.250.3 | Russia
