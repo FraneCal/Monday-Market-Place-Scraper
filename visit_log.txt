@@ -185,3 +185,4 @@ Timestamp           | Site URL                                               | I
 2025-05-17 13:39:42 | https://auth.monday.com/marketplace/listing/12/docugen | Failed | Unknown
 2025-05-17 14:10:55 | https://auth.monday.com/marketplace/listing/12/docugen | 91.243.250.3 | Russia
 2025-05-17 14:38:26 | https://auth.monday.com/marketplace/listing/12/docugen | Failed | Unknown
+2025-05-17 15:11:17 | https://auth.monday.com/marketplace/listing/12/docugen | 87.21.225.235 | Italy
