@@ -205,3 +205,4 @@ Timestamp           | Site URL                                               | I
 2025-05-17 23:35:43 | https://auth.monday.com/marketplace/listing/12/docugen | 109.151.136.44 | United Kingdom
 2025-05-18 01:04:52 | https://auth.monday.com/marketplace/listing/12/docugen | 158.47.242.245 | Italy
 2025-05-18 02:59:45 | https://auth.monday.com/marketplace/listing/12/docugen | 2.38.67.231 | Italy
+2025-05-18 03:46:04 | https://auth.monday.com/marketplace/listing/12/docugen | 149.90.171.199 | Portugal
