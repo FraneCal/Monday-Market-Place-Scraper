@@ -256,3 +256,4 @@ Timestamp           | Site URL                                               | I
 2025-05-19 06:19:15 | https://auth.monday.com/marketplace/listing/12/docugen | 78.25.176.182 | Russia
 2025-05-19 06:49:01 | https://auth.monday.com/marketplace/listing/12/docugen | 217.120.30.74 | The Netherlands
 2025-05-19 07:13:31 | https://auth.monday.com/marketplace/listing/12/docugen | 78.63.94.110 | Lithuania
+2025-05-19 07:38:21 | https://auth.monday.com/marketplace/listing/12/docugen | Failed | Unknown
