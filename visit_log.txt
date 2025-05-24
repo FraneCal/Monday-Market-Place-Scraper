@@ -502,3 +502,4 @@ Timestamp           | Site URL                                               | I
 2025-05-24 21:48:17 | https://auth.monday.com/marketplace/listing/12/docugen | 213.55.221.230 | Switzerland
 2025-05-24 22:22:52 | https://auth.monday.com/marketplace/listing/12/docugen | 86.144.184.201 | United Kingdom
 2025-05-24 22:48:32 | https://auth.monday.com/marketplace/listing/12/docugen | 101.56.148.255 | Italy
+2025-05-24 23:22:44 | https://auth.monday.com/marketplace/listing/12/docugen | 90.38.12.61 | France
