@@ -529,3 +529,4 @@ Timestamp           | Site URL                                               | I
 2025-05-25 14:22:06 | https://auth.monday.com/marketplace/listing/12/docugen | 86.127.230.212 | Spain
 2025-05-25 14:48:24 | https://auth.monday.com/marketplace/listing/12/docugen | 83.9.8.147 | Poland
 2025-05-25 15:23:52 | https://auth.monday.com/marketplace/listing/12/docugen | 185.13.186.67 | Poland
+2025-05-25 15:48:39 | https://auth.monday.com/marketplace/listing/12/docugen | 185.244.22.57 | Russia
