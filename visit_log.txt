@@ -548,3 +548,4 @@ Timestamp           | Site URL                                               | I
 2025-05-25 22:48:47 | https://auth.monday.com/marketplace/listing/12/docugen | Failed | Unknown
 2025-05-25 23:22:42 | https://auth.monday.com/marketplace/listing/12/docugen | 78.61.106.203 | Lithuania
 2025-05-25 23:48:20 | https://auth.monday.com/marketplace/listing/12/docugen | 213.159.58.149 | Lithuania
+2025-05-26 02:05:31 | https://auth.monday.com/marketplace/listing/12/docugen | 37.67.196.96 | France
