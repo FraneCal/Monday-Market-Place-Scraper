@@ -598,3 +598,4 @@ Timestamp           | Site URL                                               | I
 2025-05-27 08:33:42 | https://auth.monday.com/marketplace/listing/12/docugen | 62.78.57.100 | Russia
 2025-05-27 08:55:32 | https://auth.monday.com/marketplace/listing/12/docugen | 77.166.14.60 | The Netherlands
 2025-05-27 09:27:25 | https://auth.monday.com/marketplace/listing/12/docugen | 86.184.24.197 | United Kingdom
+2025-05-27 09:49:41 | https://auth.monday.com/marketplace/listing/12/docugen | 77.230.157.97 | Spain
