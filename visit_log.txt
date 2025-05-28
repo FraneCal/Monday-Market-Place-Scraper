@@ -653,3 +653,4 @@ Timestamp           | Site URL                                               | I
 2025-05-28 15:27:10 | https://auth.monday.com/marketplace/listing/12/docugen | 83.84.187.39 | The Netherlands
 2025-05-28 15:50:46 | https://auth.monday.com/marketplace/listing/12/docugen | 213.55.244.248 | Switzerland
 2025-05-28 16:31:11 | https://auth.monday.com/marketplace/listing/12/docugen | 31.46.113.225 | Hungary
+2025-05-28 16:55:00 | https://auth.monday.com/marketplace/listing/12/docugen | 84.225.74.72 | Hungary
