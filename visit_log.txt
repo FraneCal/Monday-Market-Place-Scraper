@@ -720,3 +720,4 @@ Timestamp           | Site URL                                               | I
 2025-05-30 06:35:31 | https://auth.monday.com/marketplace/listing/12/docugen | 31.165.207.68 | Switzerland
 2025-05-30 06:55:31 | https://auth.monday.com/marketplace/listing/12/docugen | 188.80.148.137 | Portugal
 2025-05-30 07:24:16 | https://auth.monday.com/marketplace/listing/12/docugen | Failed | Unknown
+2025-05-30 07:49:18 | https://auth.monday.com/marketplace/listing/12/docugen | 188.91.236.239 | The Netherlands
