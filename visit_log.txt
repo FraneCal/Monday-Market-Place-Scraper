@@ -809,3 +809,4 @@ Timestamp           | Site URL                                               | I
 2025-06-02 06:56:49 | https://auth.monday.com/marketplace/listing/12/docugen | 79.19.98.128 | Italy
 2025-06-02 07:27:00 | https://auth.monday.com/marketplace/listing/12/docugen | Failed | Unknown
 2025-06-02 07:48:11 | https://auth.monday.com/marketplace/listing/12/docugen | 91.89.49.39 | Germany
+2025-06-02 08:32:19 | https://auth.monday.com/marketplace/listing/12/docugen | 154.56.140.44 | Spain
