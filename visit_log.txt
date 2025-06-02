@@ -824,3 +824,4 @@ Timestamp           | Site URL                                               | I
 2025-06-02 14:52:14 | https://auth.monday.com/marketplace/listing/12/docugen | 88.130.48.229 | Germany
 2025-06-02 15:26:22 | https://auth.monday.com/marketplace/listing/12/docugen | 88.130.222.225 | Germany
 2025-06-02 15:50:32 | https://auth.monday.com/marketplace/listing/12/docugen | 176.96.191.104 | Russia
+2025-06-02 16:30:59 | https://auth.monday.com/marketplace/listing/12/docugen | 185.182.214.20 | Hungary
