@@ -875,3 +875,4 @@ Timestamp           | Site URL                                               | I
 2025-06-03 18:33:43 | https://auth.monday.com/marketplace/listing/12/docugen | Failed | Unknown
 2025-06-03 18:55:02 | https://auth.monday.com/marketplace/listing/12/docugen | 46.35.114.66 | Spain
 2025-06-03 19:18:45 | https://auth.monday.com/marketplace/listing/12/docugen | 213.193.4.82 | Russia
+2025-06-03 19:30:44 | https://auth.monday.com/marketplace/listing/12/docugen | 92.176.237.49 | Spain
