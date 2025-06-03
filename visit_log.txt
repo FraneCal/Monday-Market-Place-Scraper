@@ -873,3 +873,4 @@ Timestamp           | Site URL                                               | I
 2025-06-03 17:25:18 | https://auth.monday.com/marketplace/listing/12/docugen | 217.171.61.254 | Poland
 2025-06-03 17:48:45 | https://auth.monday.com/marketplace/listing/12/docugen | 81.132.237.199 | United Kingdom
 2025-06-03 18:33:43 | https://auth.monday.com/marketplace/listing/12/docugen | Failed | Unknown
+2025-06-03 18:55:02 | https://auth.monday.com/marketplace/listing/12/docugen | 46.35.114.66 | Spain
