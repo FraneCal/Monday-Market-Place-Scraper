@@ -929,3 +929,4 @@ Timestamp           | Site URL                                               | I
 2025-06-04 21:47:41 | https://auth.monday.com/marketplace/listing/12/docugen | 80.60.102.159 | The Netherlands
 2025-06-04 22:20:40 | https://auth.monday.com/marketplace/listing/12/docugen | 78.30.17.156 | Spain
 2025-06-04 22:36:15 | https://auth.monday.com/marketplace/listing/12/docugen | Failed | Unknown
+2025-06-04 22:48:02 | https://auth.monday.com/marketplace/listing/12/docugen | 194.230.160.213 | Switzerland
