@@ -910,3 +910,4 @@ Timestamp           | Site URL                                               | I
 2025-06-04 13:37:06 | https://auth.monday.com/marketplace/listing/12/docugen | 2.82.158.155 | Portugal
 2025-06-04 13:53:55 | https://auth.monday.com/marketplace/listing/12/docugen | 95.19.44.13 | Spain
 2025-06-04 14:19:29 | https://auth.monday.com/marketplace/listing/12/docugen | 212.187.90.211 | The Netherlands
+2025-06-04 15:01:44 | https://auth.monday.com/marketplace/listing/12/docugen | 62.100.245.46 | Hungary
