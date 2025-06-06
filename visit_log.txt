@@ -989,3 +989,4 @@ Timestamp           | Site URL                                               | I
 2025-06-06 07:47:27 | https://auth.monday.com/marketplace/listing/12/docugen | Failed | Unknown
 2025-06-06 08:30:33 | https://auth.monday.com/marketplace/listing/12/docugen | 92.40.218.34 | United Kingdom
 2025-06-06 08:54:45 | https://auth.monday.com/marketplace/listing/12/docugen | 109.110.134.27 | Hungary
+2025-06-06 09:25:43 | https://auth.monday.com/marketplace/listing/12/docugen | 2.214.63.235 | Germany
