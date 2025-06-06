@@ -983,3 +983,4 @@ Timestamp           | Site URL                                               | I
 2025-06-06 04:53:46 | https://auth.monday.com/marketplace/listing/12/docugen | Failed | Unknown
 2025-06-06 05:23:55 | https://auth.monday.com/marketplace/listing/12/docugen | 88.156.136.160 | Poland
 2025-06-06 05:51:49 | https://auth.monday.com/marketplace/listing/12/docugen | 188.89.201.141 | The Netherlands
+2025-06-06 06:34:58 | https://auth.monday.com/marketplace/listing/12/docugen | 88.0.14.39 | Spain
