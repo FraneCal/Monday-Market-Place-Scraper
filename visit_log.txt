@@ -1044,3 +1044,4 @@ Timestamp           | Site URL                                               | I
 2025-06-07 13:29:17 | https://auth.monday.com/marketplace/listing/12/docugen | Failed | Unknown
 2025-06-07 13:48:14 | https://auth.monday.com/marketplace/listing/12/docugen | 185.222.7.204 | Poland
 2025-06-07 14:19:54 | https://auth.monday.com/marketplace/listing/12/docugen | 87.245.104.157 | Switzerland
+2025-06-07 14:37:49 | https://auth.monday.com/marketplace/listing/12/docugen | 31.10.153.94 | Switzerland
