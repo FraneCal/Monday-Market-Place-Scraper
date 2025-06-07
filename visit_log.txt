@@ -1040,3 +1040,4 @@ Timestamp           | Site URL                                               | I
 2025-06-07 11:17:46 | https://auth.monday.com/marketplace/listing/12/docugen | 2.155.2.134 | Spain
 2025-06-07 11:30:02 | https://auth.monday.com/marketplace/listing/12/docugen | Failed | Unknown
 2025-06-07 11:47:32 | https://auth.monday.com/marketplace/listing/12/docugen | 31.164.108.163 | Switzerland
+2025-06-07 12:42:23 | https://auth.monday.com/marketplace/listing/12/docugen | 77.110.145.157 | Hungary
