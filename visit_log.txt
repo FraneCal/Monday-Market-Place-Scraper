@@ -1198,3 +1198,4 @@ Timestamp           | Site URL                                               | I
 2025-06-10 21:47:30 | https://auth.monday.com/marketplace/listing/12/docugen | 193.219.112.204 | Iraq
 2025-06-10 22:22:42 | https://auth.monday.com/marketplace/listing/12/docugen | 88.118.201.106 | Lithuania
 2025-06-10 22:50:11 | https://auth.monday.com/marketplace/listing/12/docugen | 194.44.57.76 | Ukraine
+2025-06-10 23:22:11 | https://auth.monday.com/marketplace/listing/12/docugen | 151.248.201.84 | Switzerland
