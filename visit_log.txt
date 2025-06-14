@@ -1359,3 +1359,4 @@ Timestamp           | Site URL                                               | I
 2025-06-14 14:38:08 | https://auth.monday.com/marketplace/listing/12/docugen | 62.227.48.129 | Germany
 2025-06-14 14:50:02 | https://auth.monday.com/marketplace/listing/12/docugen | 154.0.184.41 | Gabon
 2025-06-14 15:21:58 | https://auth.monday.com/marketplace/listing/12/docugen | 90.199.84.142 | United Kingdom
+2025-06-14 15:48:34 | https://auth.monday.com/marketplace/listing/12/docugen | 185.124.167.187 | Russia
