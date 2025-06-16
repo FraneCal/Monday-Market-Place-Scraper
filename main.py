@@ -69,10 +69,31 @@ class MondayMarketPlaceScraper():
         try:
             self.driver.get(URL)
             print("[INFO] Page loaded. Waiting for main element...")
-            WebDriverWait(self.driver, 10).until(
+
+            WebDriverWait(self.driver, 20).until(
                 EC.presence_of_element_located((By.CSS_SELECTOR, "#listing-header-controls > a > button"))
             )
-            print("[INFO] Main element located. Scrolling to bottom...")
+
+            # Accept cookies
+            try:
+                accept_cookies = WebDriverWait(self.driver, 10).until(
+                    EC.element_to_be_clickable((By.XPATH, '//*[@id="ch2-dialog"]/div[2]/button[3]')))
+                accept_cookies.click()
+                print("[INFO] Accepted cookies.")
+                time.sleep(3)
+            except TimeoutException:
+                print("[INFO] No cookie dialog found.")
+
+            # Click the button to sign in
+            try:
+                install_button = WebDriverWait(self.driver, 10).until(EC.element_to_be_clickable((By.XPATH, '//*[@id="listing-header-controls"]/a/button')))
+                install_button.click()
+                print("[INFO] Sign in button clicked.")
+                time.sleep(3)
+            except TimeoutException:
+                print("[INFO] No sign in button found.")
+
+            print("[INFO] Scrolling to bottom...")
             self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
             time.sleep(2)
             print("[INFO] Scrolling complete.")
