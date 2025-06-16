@@ -1438,3 +1438,4 @@ Timestamp           | Site URL                                               | I
 2025-06-16 08:33:13 | https://auth.monday.com/marketplace/listing/12/docugen | 82.174.183.84 | The Netherlands
 2025-06-16 08:56:49 | https://auth.monday.com/marketplace/listing/12/docugen | 194.230.144.32 | Switzerland
 2025-06-16 09:30:09 | https://auth.monday.com/marketplace/listing/12/docugen | 89.85.94.29 | France
+2025-06-16 09:51:12 | https://auth.monday.com/marketplace/listing/12/docugen | 176.78.172.132 | Portugal
