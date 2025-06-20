@@ -1623,3 +1623,4 @@ Timestamp           | Site URL                                               | I
 2025-06-20 14:51:33 | https://auth.monday.com/marketplace/listing/12/docugen | 93.35.207.171 | Italy
 2025-06-20 15:24:45 | https://auth.monday.com/marketplace/listing/12/docugen | 82.16.70.67 | United Kingdom
 2025-06-20 15:49:36 | https://auth.monday.com/marketplace/listing/12/docugen | 37.161.80.25 | Italy
+2025-06-20 16:29:18 | https://auth.monday.com/marketplace/listing/12/docugen | 95.98.45.135 | The Netherlands
