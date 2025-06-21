@@ -1678,3 +1678,4 @@ Timestamp           | Site URL                                               | I
 2025-06-21 19:18:06 | https://auth.monday.com/marketplace/listing/12/docugen | 185.107.56.65 | The Netherlands
 2025-06-21 19:29:56 | https://auth.monday.com/marketplace/listing/12/docugen | 85.67.252.23 | Hungary
 2025-06-21 19:47:41 | https://auth.monday.com/marketplace/listing/12/docugen | Failed | Unknown
+2025-06-21 20:23:34 | https://auth.monday.com/marketplace/listing/12/docugen | 37.100.183.148 | Italy
