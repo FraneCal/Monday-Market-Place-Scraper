@@ -1727,3 +1727,4 @@ Timestamp           | Site URL                                               | I
 2025-06-22 20:24:22 | https://auth.monday.com/marketplace/listing/12/docugen | 81.183.234.180 | Hungary
 2025-06-22 20:48:41 | https://auth.monday.com/marketplace/listing/12/docugen | 87.7.125.155 | Italy
 2025-06-22 21:20:41 | https://auth.monday.com/marketplace/listing/12/docugen | 78.56.232.197 | Lithuania
+2025-06-22 21:36:54 | https://auth.monday.com/marketplace/listing/12/docugen | Failed | Unknown
