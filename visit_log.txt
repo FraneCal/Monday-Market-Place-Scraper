@@ -1744,3 +1744,4 @@ Timestamp           | Site URL                                               | I
 2025-06-23 07:28:36 | https://auth.monday.com/marketplace/listing/12/docugen | 46.205.207.5 | Poland
 2025-06-23 07:50:09 | https://auth.monday.com/marketplace/listing/12/docugen | 91.245.206.28 | Spain
 2025-06-23 08:33:08 | https://auth.monday.com/marketplace/listing/12/docugen | 86.253.136.217 | France
+2025-06-23 08:56:51 | https://auth.monday.com/marketplace/listing/12/docugen | Failed | Unknown
