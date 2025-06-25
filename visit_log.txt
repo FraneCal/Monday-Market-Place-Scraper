@@ -1828,3 +1828,4 @@ Timestamp           | Site URL                                               | I
 2025-06-25 06:57:33 | https://auth.monday.com/marketplace/listing/12/docugen | 80.130.26.168 | Germany
 2025-06-25 07:27:48 | https://auth.monday.com/marketplace/listing/12/docugen | 31.165.48.53 | Switzerland
 2025-06-25 07:49:36 | https://auth.monday.com/marketplace/listing/12/docugen | 80.240.10.74 | Lithuania
+2025-06-25 08:32:57 | https://auth.monday.com/marketplace/listing/12/docugen | 83.45.1.81 | Spain
