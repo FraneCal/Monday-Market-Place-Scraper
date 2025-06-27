@@ -1941,3 +1941,4 @@ Timestamp           | Site URL                                               | I
 2025-06-27 20:48:18 | https://auth.monday.com/marketplace/listing/12/docugen | 84.227.79.175 | Switzerland
 2025-06-27 21:20:06 | https://auth.monday.com/marketplace/listing/12/docugen | 82.169.247.178 | The Netherlands
 2025-06-27 21:36:21 | https://auth.monday.com/marketplace/listing/12/docugen | 213.55.222.30 | Switzerland
+2025-06-27 21:48:14 | https://auth.monday.com/marketplace/listing/12/docugen | 78.58.23.53 | Lithuania
