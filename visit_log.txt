@@ -1937,3 +1937,4 @@ Timestamp           | Site URL                                               | I
 2025-06-27 19:17:26 | https://auth.monday.com/marketplace/listing/12/docugen | 92.59.147.154 | Spain
 2025-06-27 19:31:19 | https://auth.monday.com/marketplace/listing/12/docugen | 77.183.40.185 | Germany
 2025-06-27 19:47:59 | https://auth.monday.com/marketplace/listing/12/docugen | 31.46.244.89 | Hungary
+2025-06-27 20:25:53 | https://auth.monday.com/marketplace/listing/12/docugen | 37.76.8.149 | Hungary
