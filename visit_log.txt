@@ -1971,3 +1971,4 @@ Timestamp           | Site URL                                               | I
 2025-06-28 13:48:55 | https://auth.monday.com/marketplace/listing/12/docugen | 88.175.14.242 | France
 2025-06-28 14:20:01 | https://auth.monday.com/marketplace/listing/12/docugen | 95.69.75.202 | Portugal
 2025-06-28 14:39:12 | https://auth.monday.com/marketplace/listing/12/docugen | 84.15.217.143 | Latvia
+2025-06-28 14:51:12 | https://auth.monday.com/marketplace/listing/12/docugen | 31.46.244.58 | Hungary
