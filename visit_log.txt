@@ -1977,3 +1977,4 @@ Timestamp           | Site URL                                               | I
 2025-06-28 16:27:33 | https://auth.monday.com/marketplace/listing/12/docugen | 212.102.37.175 | Switzerland
 2025-06-28 16:53:26 | https://auth.monday.com/marketplace/listing/12/docugen | 91.116.35.164 | Spain
 2025-06-28 17:19:39 | https://auth.monday.com/marketplace/listing/12/docugen | 176.152.253.198 | France
+2025-06-28 17:37:31 | https://auth.monday.com/marketplace/listing/12/docugen | 77.56.113.239 | Switzerland
