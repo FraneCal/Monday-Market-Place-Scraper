@@ -1984,3 +1984,4 @@ Timestamp           | Site URL                                               | I
 2025-06-28 19:18:20 | https://auth.monday.com/marketplace/listing/12/docugen | 83.169.197.14 | Russia
 2025-06-28 19:30:08 | https://auth.monday.com/marketplace/listing/12/docugen | 83.30.192.181 | Poland
 2025-06-28 19:47:47 | https://auth.monday.com/marketplace/listing/12/docugen | 2.82.61.252 | Portugal
+2025-06-28 20:24:40 | https://auth.monday.com/marketplace/listing/12/docugen | 109.49.195.71 | Portugal
