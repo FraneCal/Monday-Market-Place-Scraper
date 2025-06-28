@@ -1956,3 +1956,4 @@ Timestamp           | Site URL                                               | I
 2025-06-28 06:32:01 | https://auth.monday.com/marketplace/listing/12/docugen | 213.45.228.75 | Italy
 2025-06-28 06:53:50 | https://auth.monday.com/marketplace/listing/12/docugen | 37.77.140.81 | Italy
 2025-06-28 07:21:25 | https://auth.monday.com/marketplace/listing/12/docugen | 78.56.153.99 | Lithuania
+2025-06-28 07:47:59 | https://auth.monday.com/marketplace/listing/12/docugen | 80.40.218.45 | United Kingdom
