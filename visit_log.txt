@@ -1963,3 +1963,4 @@ Timestamp           | Site URL                                               | I
 2025-06-28 09:49:45 | https://auth.monday.com/marketplace/listing/12/docugen | 2.217.187.68 | United Kingdom
 2025-06-28 10:23:12 | https://auth.monday.com/marketplace/listing/12/docugen | 78.62.203.25 | Lithuania
 2025-06-28 10:49:38 | https://auth.monday.com/marketplace/listing/12/docugen | 95.244.212.237 | Italy
+2025-06-28 11:18:56 | https://auth.monday.com/marketplace/listing/12/docugen | 185.177.124.221 | The Netherlands
