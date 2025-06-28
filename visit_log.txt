@@ -1953,3 +1953,4 @@ Timestamp           | Site URL                                               | I
 2025-06-28 04:55:32 | https://auth.monday.com/marketplace/listing/12/docugen | 31.27.249.90 | Italy
 2025-06-28 05:23:23 | https://auth.monday.com/marketplace/listing/12/docugen | 88.124.185.102 | France
 2025-06-28 05:49:54 | https://auth.monday.com/marketplace/listing/12/docugen | 85.87.216.127 | Spain
+2025-06-28 06:32:01 | https://auth.monday.com/marketplace/listing/12/docugen | 213.45.228.75 | Italy
