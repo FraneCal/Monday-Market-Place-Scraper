@@ -1974,3 +1974,4 @@ Timestamp           | Site URL                                               | I
 2025-06-28 14:51:12 | https://auth.monday.com/marketplace/listing/12/docugen | 31.46.244.58 | Hungary
 2025-06-28 15:22:27 | https://auth.monday.com/marketplace/listing/12/docugen | 186.190.215.179 | Switzerland
 2025-06-28 15:48:16 | https://auth.monday.com/marketplace/listing/12/docugen | 92.52.251.13 | Hungary
+2025-06-28 16:27:33 | https://auth.monday.com/marketplace/listing/12/docugen | 212.102.37.175 | Switzerland
