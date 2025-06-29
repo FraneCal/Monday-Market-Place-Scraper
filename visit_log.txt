@@ -2020,3 +2020,4 @@ Timestamp           | Site URL                                               | I
 2025-06-29 15:48:13 | https://auth.monday.com/marketplace/listing/12/docugen | 176.77.134.135 | Hungary
 2025-06-29 16:27:26 | https://auth.monday.com/marketplace/listing/12/docugen | 195.180.52.53 | United Kingdom
 2025-06-29 16:54:38 | https://auth.monday.com/marketplace/listing/12/docugen | 5.38.140.154 | Hungary
+2025-06-29 17:19:18 | https://auth.monday.com/marketplace/listing/12/docugen | 185.203.125.181 | Italy
