@@ -1992,3 +1992,4 @@ Timestamp           | Site URL                                               | I
 2025-06-28 22:48:55 | https://auth.monday.com/marketplace/listing/12/docugen | 85.94.26.107 | Russia
 2025-06-28 23:22:16 | https://auth.monday.com/marketplace/listing/12/docugen | 80.66.69.50 | Russia
 2025-06-28 23:48:05 | https://auth.monday.com/marketplace/listing/12/docugen | 90.90.193.199 | France
+2025-06-29 02:07:45 | https://auth.monday.com/marketplace/listing/12/docugen | 95.24.18.207 | Russia
