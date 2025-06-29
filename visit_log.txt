@@ -1999,3 +1999,4 @@ Timestamp           | Site URL                                               | I
 2025-06-29 05:42:28 | https://auth.monday.com/marketplace/listing/12/docugen | 148.63.238.199 | Portugal
 2025-06-29 06:33:06 | https://auth.monday.com/marketplace/listing/12/docugen | 83.10.43.93 | Poland
 2025-06-29 06:54:56 | https://auth.monday.com/marketplace/listing/12/docugen | 94.62.223.54 | Portugal
+2025-06-29 07:22:00 | https://auth.monday.com/marketplace/listing/12/docugen | 188.84.118.80 | Spain
