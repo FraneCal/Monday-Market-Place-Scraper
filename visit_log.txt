@@ -2095,3 +2095,4 @@ Timestamp           | Site URL                                               | I
 2025-07-01 09:52:07 | https://auth.monday.com/marketplace/listing/12/docugen | 94.213.40.26 | The Netherlands
 2025-07-01 10:27:17 | https://auth.monday.com/marketplace/listing/12/docugen | 2.211.213.16 | Germany
 2025-07-01 10:53:51 | https://auth.monday.com/marketplace/listing/12/docugen | 31.10.154.75 | Switzerland
+2025-07-01 11:20:45 | https://auth.monday.com/marketplace/listing/12/docugen | 37.223.51.21 | Spain
