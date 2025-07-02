@@ -2138,3 +2138,4 @@ Timestamp           | Site URL                                               | I
 2025-07-02 10:26:55 | https://auth.monday.com/marketplace/listing/12/docugen | 170.0.166.193 | Brazil
 2025-07-02 10:53:36 | https://auth.monday.com/marketplace/listing/12/docugen | 178.220.93.159 | Serbia
 2025-07-02 11:20:55 | https://auth.monday.com/marketplace/listing/12/docugen | 170.233.19.37 | Brazil
+2025-07-02 11:47:42 | https://auth.monday.com/marketplace/listing/12/docugen | 170.0.57.50 | Brazil
