@@ -2155,3 +2155,4 @@ Timestamp           | Site URL                                               | I
 2025-07-02 19:19:16 | https://auth.monday.com/marketplace/listing/12/docugen | 102.66.138.235 | South Africa
 2025-07-02 19:31:19 | https://auth.monday.com/marketplace/listing/12/docugen | 160.154.73.84 | Ivory Coast
 2025-07-02 19:47:46 | https://auth.monday.com/marketplace/listing/12/docugen | 31.43.37.252 | Ukraine
+2025-07-02 20:24:51 | https://auth.monday.com/marketplace/listing/12/docugen | 142.247.201.252 | Saudi Arabia
