@@ -2141,3 +2141,4 @@ Timestamp           | Site URL                                               | I
 2025-07-02 11:47:42 | https://auth.monday.com/marketplace/listing/12/docugen | 170.0.57.50 | Brazil
 2025-07-02 12:50:09 | https://auth.monday.com/marketplace/listing/12/docugen | 177.22.171.188 | Brazil
 2025-07-02 13:35:35 | https://auth.monday.com/marketplace/listing/12/docugen | Failed | Unknown
+2025-07-02 13:53:28 | https://auth.monday.com/marketplace/listing/12/docugen | 178.87.244.112 | Saudi Arabia
