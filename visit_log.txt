@@ -2153,3 +2153,4 @@ Timestamp           | Site URL                                               | I
 2025-07-02 18:33:31 | https://auth.monday.com/marketplace/listing/12/docugen | 123.17.250.207 | Vietnam
 2025-07-02 18:55:39 | https://auth.monday.com/marketplace/listing/12/docugen | 103.149.241.113 | Pakistan
 2025-07-02 19:19:16 | https://auth.monday.com/marketplace/listing/12/docugen | 102.66.138.235 | South Africa
+2025-07-02 19:31:19 | https://auth.monday.com/marketplace/listing/12/docugen | 160.154.73.84 | Ivory Coast
