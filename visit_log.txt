@@ -2180,3 +2180,4 @@ Timestamp           | Site URL                                               | I
 2025-07-03 10:26:51 | https://auth.monday.com/marketplace/listing/12/docugen | 189.179.202.218 | Mexico
 2025-07-03 10:53:30 | https://auth.monday.com/marketplace/listing/12/docugen | 180.241.28.99 | Indonesia
 2025-07-03 11:20:44 | https://auth.monday.com/marketplace/listing/12/docugen | 51.36.233.96 | Saudi Arabia
+2025-07-03 11:37:02 | https://auth.monday.com/marketplace/listing/12/docugen | 87.170.49.22 | Germany
