@@ -2192,3 +2192,4 @@ Timestamp           | Site URL                                               | I
 2025-07-03 16:29:48 | https://auth.monday.com/marketplace/listing/12/docugen | 152.202.3.74 | Colombia
 2025-07-03 16:56:13 | https://auth.monday.com/marketplace/listing/12/docugen | 103.72.61.254 | Bangladesh
 2025-07-03 17:24:16 | https://auth.monday.com/marketplace/listing/12/docugen | 45.164.189.51 | Brazil
+2025-07-03 17:50:04 | https://auth.monday.com/marketplace/listing/12/docugen | Failed | Unknown
