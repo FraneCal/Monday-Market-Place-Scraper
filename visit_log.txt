@@ -2198,3 +2198,4 @@ Timestamp           | Site URL                                               | I
 2025-07-03 19:18:34 | https://auth.monday.com/marketplace/listing/12/docugen | 88.152.185.194 | Germany
 2025-07-03 19:31:11 | https://auth.monday.com/marketplace/listing/12/docugen | 45.160.105.30 | Brazil
 2025-07-03 19:47:19 | https://auth.monday.com/marketplace/listing/12/docugen | 190.97.237.139 | Venezuela
+2025-07-03 20:25:45 | https://auth.monday.com/marketplace/listing/12/docugen | 181.78.78.59 | Colombia
