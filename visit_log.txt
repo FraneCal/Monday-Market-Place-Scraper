@@ -2240,3 +2240,4 @@ Timestamp           | Site URL                                               | I
 2025-07-04 19:19:28 | https://auth.monday.com/marketplace/listing/12/docugen | 177.75.207.135 | Brazil
 2025-07-04 19:31:52 | https://auth.monday.com/marketplace/listing/12/docugen | 102.219.169.16 | South Africa
 2025-07-04 19:47:35 | https://auth.monday.com/marketplace/listing/12/docugen | 86.108.33.209 | Jordan
+2025-07-04 20:25:13 | https://auth.monday.com/marketplace/listing/12/docugen | 186.42.25.158 | Ecuador
