@@ -2236,3 +2236,4 @@ Timestamp           | Site URL                                               | I
 2025-07-04 17:39:14 | https://auth.monday.com/marketplace/listing/12/docugen | 177.74.229.136 | Brazil
 2025-07-04 17:51:51 | https://auth.monday.com/marketplace/listing/12/docugen | 185.187.131.161 | Lebanon
 2025-07-04 18:32:11 | https://auth.monday.com/marketplace/listing/12/docugen | 190.189.155.50 | Argentina
+2025-07-04 18:54:12 | https://auth.monday.com/marketplace/listing/12/docugen | 189.70.173.207 | Brazil
