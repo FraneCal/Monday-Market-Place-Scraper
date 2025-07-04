@@ -2232,3 +2232,4 @@ Timestamp           | Site URL                                               | I
 2025-07-04 15:49:53 | https://auth.monday.com/marketplace/listing/12/docugen | 223.178.209.60 | India
 2025-07-04 16:29:08 | https://auth.monday.com/marketplace/listing/12/docugen | 201.33.76.205 | Brazil
 2025-07-04 16:54:49 | https://auth.monday.com/marketplace/listing/12/docugen | 138.0.145.139 | Brazil
+2025-07-04 17:20:32 | https://auth.monday.com/marketplace/listing/12/docugen | 14.177.89.175 | Vietnam
