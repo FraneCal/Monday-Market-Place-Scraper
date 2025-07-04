@@ -2214,3 +2214,4 @@ Timestamp           | Site URL                                               | I
 2025-07-04 05:52:26 | https://auth.monday.com/marketplace/listing/12/docugen | 143.0.243.141 | Brazil
 2025-07-04 06:36:25 | https://auth.monday.com/marketplace/listing/12/docugen | 177.37.145.156 | Brazil
 2025-07-04 06:58:18 | https://auth.monday.com/marketplace/listing/12/docugen | 186.148.184.145 | Colombia
+2025-07-04 07:29:23 | https://auth.monday.com/marketplace/listing/12/docugen | Failed | Unknown
