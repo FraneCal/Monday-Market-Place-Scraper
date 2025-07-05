@@ -2285,3 +2285,4 @@ Timestamp           | Site URL                                               | I
 2025-07-05 19:18:15 | https://auth.monday.com/marketplace/listing/12/docugen | 70.94.163.53 | United States
 2025-07-05 19:29:56 | https://auth.monday.com/marketplace/listing/12/docugen | 85.130.62.106 | Bulgaria
 2025-07-05 19:47:47 | https://auth.monday.com/marketplace/listing/12/docugen | 95.57.233.178 | Kazakhstan
+2025-07-05 20:23:58 | https://auth.monday.com/marketplace/listing/12/docugen | 45.228.213.134 | Brazil
