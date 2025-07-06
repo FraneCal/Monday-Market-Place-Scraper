@@ -2316,3 +2316,4 @@ Timestamp           | Site URL                                               | I
 2025-07-06 13:30:59 | https://auth.monday.com/marketplace/listing/12/docugen | 176.98.225.75 | Kazakhstan
 2025-07-06 13:49:24 | https://auth.monday.com/marketplace/listing/12/docugen | 177.129.55.229 | Brazil
 2025-07-06 14:20:33 | https://auth.monday.com/marketplace/listing/12/docugen | 1.145.98.128 | Australia
+2025-07-06 14:39:21 | https://auth.monday.com/marketplace/listing/12/docugen | Failed | Unknown
