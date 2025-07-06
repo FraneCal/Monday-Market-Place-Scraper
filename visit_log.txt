@@ -2314,3 +2314,4 @@ Timestamp           | Site URL                                               | I
 2025-07-06 11:47:50 | https://auth.monday.com/marketplace/listing/12/docugen | 123.30.217.112 | Vietnam
 2025-07-06 12:45:05 | https://auth.monday.com/marketplace/listing/12/docugen | Failed | Unknown
 2025-07-06 13:30:59 | https://auth.monday.com/marketplace/listing/12/docugen | 176.98.225.75 | Kazakhstan
+2025-07-06 13:49:24 | https://auth.monday.com/marketplace/listing/12/docugen | 177.129.55.229 | Brazil
