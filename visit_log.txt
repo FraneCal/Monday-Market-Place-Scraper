@@ -2327,3 +2327,4 @@ Timestamp           | Site URL                                               | I
 2025-07-06 17:50:38 | https://auth.monday.com/marketplace/listing/12/docugen | 177.22.168.2 | Brazil
 2025-07-06 18:31:11 | https://auth.monday.com/marketplace/listing/12/docugen | 181.224.67.130 | Chile
 2025-07-06 18:53:21 | https://auth.monday.com/marketplace/listing/12/docugen | 186.188.231.64 | Panama
+2025-07-06 19:19:05 | https://auth.monday.com/marketplace/listing/12/docugen | 179.29.0.132 | Uruguay
