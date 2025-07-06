@@ -2304,3 +2304,4 @@ Timestamp           | Site URL                                               | I
 2025-07-06 07:21:30 | https://auth.monday.com/marketplace/listing/12/docugen | Failed | Unknown
 2025-07-06 07:47:43 | https://auth.monday.com/marketplace/listing/12/docugen | 154.80.16.195 | Pakistan
 2025-07-06 08:28:33 | https://auth.monday.com/marketplace/listing/12/docugen | 193.188.123.20 | Bahrain
+2025-07-06 08:53:17 | https://auth.monday.com/marketplace/listing/12/docugen | 14.187.45.177 | Vietnam
