@@ -2367,3 +2367,4 @@ Timestamp           | Site URL                                               | I
 2025-07-07 16:56:03 | https://auth.monday.com/marketplace/listing/12/docugen | 138.59.225.18 | Paraguay
 2025-07-07 17:22:33 | https://auth.monday.com/marketplace/listing/12/docugen | 157.100.107.45 | Ecuador
 2025-07-07 17:50:41 | https://auth.monday.com/marketplace/listing/12/docugen | Failed | Unknown
+2025-07-07 18:33:54 | https://auth.monday.com/marketplace/listing/12/docugen | 45.224.174.247 | Brazil
