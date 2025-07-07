@@ -2366,3 +2366,4 @@ Timestamp           | Site URL                                               | I
 2025-07-07 16:31:17 | https://auth.monday.com/marketplace/listing/12/docugen | 14.183.168.139 | Vietnam
 2025-07-07 16:56:03 | https://auth.monday.com/marketplace/listing/12/docugen | 138.59.225.18 | Paraguay
 2025-07-07 17:22:33 | https://auth.monday.com/marketplace/listing/12/docugen | 157.100.107.45 | Ecuador
+2025-07-07 17:50:41 | https://auth.monday.com/marketplace/listing/12/docugen | Failed | Unknown
