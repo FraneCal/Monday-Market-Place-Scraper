@@ -2360,3 +2360,4 @@ Timestamp           | Site URL                                               | I
 2025-07-07 13:36:16 | https://auth.monday.com/marketplace/listing/12/docugen | 45.174.238.211 | Brazil
 2025-07-07 13:54:35 | https://auth.monday.com/marketplace/listing/12/docugen | 189.59.120.80 | Brazil
 2025-07-07 14:24:36 | https://auth.monday.com/marketplace/listing/12/docugen | 143.137.155.80 | Brazil
+2025-07-07 14:52:57 | https://auth.monday.com/marketplace/listing/12/docugen | 69.73.253.101 | Barbados
