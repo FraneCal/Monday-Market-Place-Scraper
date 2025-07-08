@@ -2390,3 +2390,4 @@ Timestamp           | Site URL                                               | I
 2025-07-08 07:27:41 | https://auth.monday.com/marketplace/listing/12/docugen | 200.225.150.81 | Brazil
 2025-07-08 07:49:18 | https://auth.monday.com/marketplace/listing/12/docugen | 181.39.232.124 | Ecuador
 2025-07-08 08:32:39 | https://auth.monday.com/marketplace/listing/12/docugen | 89.113.158.115 | Russia
+2025-07-08 08:57:42 | https://auth.monday.com/marketplace/listing/12/docugen | 170.231.235.227 | Brazil
