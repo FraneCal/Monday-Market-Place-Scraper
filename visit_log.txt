@@ -2381,3 +2381,4 @@ Timestamp           | Site URL                                               | I
 2025-07-07 23:48:46 | https://auth.monday.com/marketplace/listing/12/docugen | 186.128.201.123 | Argentina
 2025-07-08 01:58:29 | https://auth.monday.com/marketplace/listing/12/docugen | Failed | Unknown
 2025-07-08 03:23:41 | https://auth.monday.com/marketplace/listing/12/docugen | 45.173.38.206 | Brazil
+2025-07-08 04:06:53 | https://auth.monday.com/marketplace/listing/12/docugen | 179.37.113.41 | Argentina
