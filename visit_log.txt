@@ -2454,3 +2454,4 @@ Timestamp           | Site URL                                               | I
 2025-07-09 19:22:28 | https://auth.monday.com/marketplace/listing/12/docugen | 5.47.161.48 | Turkey
 2025-07-09 19:48:05 | https://auth.monday.com/marketplace/listing/12/docugen | 39.34.151.9 | Pakistan
 2025-07-09 20:27:03 | https://auth.monday.com/marketplace/listing/12/docugen | 170.239.254.149 | Brazil
+2025-07-09 20:51:33 | https://auth.monday.com/marketplace/listing/12/docugen | 185.8.126.13 | Russia
