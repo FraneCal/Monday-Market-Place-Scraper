@@ -2439,3 +2439,4 @@ Timestamp           | Site URL                                               | I
 2025-07-09 11:21:34 | https://auth.monday.com/marketplace/listing/12/docugen | 191.7.36.223 | Brazil
 2025-07-09 11:48:45 | https://auth.monday.com/marketplace/listing/12/docugen | 179.63.145.201 | Brazil
 2025-07-09 12:50:44 | https://auth.monday.com/marketplace/listing/12/docugen | Failed | Unknown
+2025-07-09 13:36:40 | https://auth.monday.com/marketplace/listing/12/docugen | 187.16.10.47 | Brazil
