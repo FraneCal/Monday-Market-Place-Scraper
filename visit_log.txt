@@ -2480,3 +2480,4 @@ Timestamp           | Site URL                                               | I
 2025-07-10 11:21:08 | https://auth.monday.com/marketplace/listing/12/docugen | Failed | Unknown
 2025-07-10 11:48:21 | https://auth.monday.com/marketplace/listing/12/docugen | 119.155.68.16 | Pakistan
 2025-07-10 12:51:19 | https://auth.monday.com/marketplace/listing/12/docugen | 186.138.234.17 | Argentina
+2025-07-10 13:38:11 | https://auth.monday.com/marketplace/listing/12/docugen | 123.21.166.183 | Vietnam
