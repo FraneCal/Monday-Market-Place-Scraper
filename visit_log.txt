@@ -2494,3 +2494,4 @@ Timestamp           | Site URL                                               | I
 2025-07-10 18:56:08 | https://auth.monday.com/marketplace/listing/12/docugen | 200.180.231.148 | Brazil
 2025-07-10 19:20:31 | https://auth.monday.com/marketplace/listing/12/docugen | 178.135.21.24 | Lebanon
 2025-07-10 19:34:10 | https://auth.monday.com/marketplace/listing/12/docugen | 181.160.52.164 | Chile
+2025-07-10 19:47:43 | https://auth.monday.com/marketplace/listing/12/docugen | 88.127.206.91 | France
