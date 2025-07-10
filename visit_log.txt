@@ -2492,3 +2492,4 @@ Timestamp           | Site URL                                               | I
 2025-07-10 17:51:11 | https://auth.monday.com/marketplace/listing/12/docugen | 14.188.197.205 | Vietnam
 2025-07-10 18:34:19 | https://auth.monday.com/marketplace/listing/12/docugen | 88.201.6.118 | Bahrain
 2025-07-10 18:56:08 | https://auth.monday.com/marketplace/listing/12/docugen | 200.180.231.148 | Brazil
+2025-07-10 19:20:31 | https://auth.monday.com/marketplace/listing/12/docugen | 178.135.21.24 | Lebanon
