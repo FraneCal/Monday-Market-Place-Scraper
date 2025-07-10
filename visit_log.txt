@@ -2473,3 +2473,4 @@ Timestamp           | Site URL                                               | I
 2025-07-10 07:49:21 | https://auth.monday.com/marketplace/listing/12/docugen | 2.63.49.158 | Russia
 2025-07-10 08:33:06 | https://auth.monday.com/marketplace/listing/12/docugen | 38.250.150.50 | Peru
 2025-07-10 08:56:58 | https://auth.monday.com/marketplace/listing/12/docugen | 168.227.19.9 | Brazil
+2025-07-10 09:30:56 | https://auth.monday.com/marketplace/listing/12/docugen | 123.21.148.54 | Vietnam
